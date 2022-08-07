@@ -1,0 +1,31 @@
+body {
+    margin: 80px;
+    background: beige;
+}
+
+.logo {
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.nav-bar {
+    padding-top: 13px;
+}
+
+.main-header {
+    padding: 40px;
+    justify-content: space-between;
+    display: flex;
+    border: 2px solid;
+    border-radius: 15%;
+    color:whitesmoke;
+    background: blueviolet;
+
+    
+}
+.search-button {
+    font-size: 37px;
+}
+.search{
+    color: beige;
+}
